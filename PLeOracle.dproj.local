@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/20 09:37:17.000.832,=C:\Users\Tom\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/20 09:37:58.000.337,C:\Users\Tom\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Projetos\LeOracle\LeOracle.pas</Transaction>
+    <Transaction>2021/03/20 09:37:58.000.337,C:\Users\Tom\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Projetos\LeOracle\LeOracle.dfm</Transaction>
+    <Transaction>2021/03/20 09:38:21.000.335,C:\Users\Tom\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Projetos\LeOracle\PLeOracle.dproj</Transaction>
+    <Transaction>2021/03/20 10:44:08.964,=C:\Projetos\LeOracle\Unit1.pas</Transaction>
+    <Transaction>2021/03/20 10:47:09.349,=C:\Projetos\LeOracle\Unit2.pas</Transaction>
+    <Transaction>2021/03/20 10:47:27.043,C:\Projetos\LeOracle\Uoraconnection.pas=C:\Projetos\LeOracle\Unit2.pas</Transaction>
+    <Transaction>2021/03/20 10:57:37.733,C:\Projetos\LeOracle\UConfig.dfm=C:\Projetos\LeOracle\Unit1.dfm</Transaction>
+    <Transaction>2021/03/20 10:57:37.733,C:\Projetos\LeOracle\UConfig.pas=C:\Projetos\LeOracle\Unit1.pas</Transaction>
+    <Transaction>2021/03/20 11:48:35.504,=C:\Projetos\LeOracle\Unit1.pas</Transaction>
+    <Transaction>2021/03/20 11:49:04.984,C:\Projetos\LeOracle\DM.pas=C:\Projetos\LeOracle\Unit1.pas</Transaction>
+    <Transaction>2021/03/20 11:49:04.984,C:\Projetos\LeOracle\DM.dfm=C:\Projetos\LeOracle\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
